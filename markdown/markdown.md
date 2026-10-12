@@ -19,7 +19,7 @@ entre las categorias que puedan formar parte de nuestra oferta econtramos:
 4. Postres y propuestas dulces.
 5. Bebidas y cafés.
 
-###simpre lo primeros
+### Siempre lo primeros
 ![](https://upload.wikimedia.org/wikipedia/commons/8/8b/Christmas_table_%28Serbian_cuisine%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
 
 ## Ejemplo de carta MERAKI
@@ -33,6 +33,7 @@ de platos para nuestro restaurante.
 | Platos principales | Pollo a la parrilla | Pollo acompañado de guarnición |
 | Postres | Tarta de queso | Postre casero |
 | Bebidas | Café especial | Café preparado al momento |
+
 ![](/assets/Menú Meraki_ cocina con alma.png)
 
 ## Enlaces de interés
