@@ -34,7 +34,7 @@ de platos para nuestro restaurante.
 | Postres | Tarta de queso | Postre casero |
 | Bebidas | Café especial | Café preparado al momento |
 
-![](/assets/Menú Meraki_ cocina con alma.png)
+![](/assets/menu.png)
 
 ## Enlaces de interés
 Para conocer más sobre el mundo de la gastronomía,
