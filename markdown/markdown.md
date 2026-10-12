@@ -18,7 +18,7 @@ entre las categorias que puedan formar parte de nuestra oferta econtramos:
 3. Opciones vegetarianas.
 4. Postres y propuestas dulces.
 5. Bebidas y cafés.
-   
+![]([[File:Christmas table (Serbian cuisine).jpg|Christmas table (Cuisine of Serbia).]]   )
 
 ## Ejemplo de carta MERAKI
 La siguiente tabla presenta una propuesta inicial
@@ -31,7 +31,8 @@ de platos para nuestro restaurante.
 | Platos principales | Pollo a la parrilla | Pollo acompañado de guarnición |
 | Postres | Tarta de queso | Postre casero |
 | Bebidas | Café especial | Café preparado al momento |
-!CARTA DE MENU 
+![](assets/MENÚ MERAKI_ cocina con alma.png)
+
 ## Enlaces de interés
 Para conocer más sobre el mundo de la gastronomía,
 podemos consultar el siguiente enlace:
