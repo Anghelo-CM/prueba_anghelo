@@ -9,7 +9,7 @@ Nuestros principales valores son:
 * **creatividad**: explotar nuevas combinaciones de sabores.
 * **cercanias**: Ofercer una atencion amable y personalisada.
 * **pasión**: cuidar los pequeños detlles de cada elaboración.
-
+![](assets/Restaurante-italiano.webp)
 ## nuestras propuesta gastronómicas
 
 entre las categorias que puedan formar parte de nuestra oferta econtramos:
