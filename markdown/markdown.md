@@ -31,7 +31,7 @@ de platos para nuestro restaurante.
 | Platos principales | Pollo a la parrilla | Pollo acompañado de guarnición |
 | Postres | Tarta de queso | Postre casero |
 | Bebidas | Café especial | Café preparado al momento |
-![](assets/MENÚ MERAKI_ cocina con alma.png)
+![](/assets/Menú Meraki_ cocina con alma.png)
 
 ## Enlaces de interés
 Para conocer más sobre el mundo de la gastronomía,
