@@ -17,22 +17,44 @@ entre las categorias que puedan formar parte de nuestra oferta econtramos:
 2. Plstos principales elaborados con ingredientes de calidad.
 3. Opciones vegetarianas.
 4. Postres y propuestas dulces.
-5. Bebidas parar compañar cada comida.
+5. Bebidas y cafés.
+   
 
-## Tutoriales de Markdown
+## Ejemplo de carta MERAKI
+La siguiente tabla presenta una propuesta inicial
+de platos para nuestro restaurante.
 
-Para aprender a usar Markdown puedes consultar los siguientes tutoriales:
+| Categoría | Producto | Descripción |
+|---|---|---|
+| Entrantes | Patatas MERAKI | Patatas con salsa especial |
+| Hamburguesas | Burger MERAKI | Hamburguesa con ingredientes seleccionados |
+| Platos principales | Pollo a la parrilla | Pollo acompañado de guarnición |
+| Postres | Tarta de queso | Postre casero |
+| Bebidas | Café especial | Café preparado al momento |
+!CARTA DE MENU 
+## Enlaces de interés
+Para conocer más sobre el mundo de la gastronomía,
+podemos consultar el siguiente enlace:
 
-[Tutorial de Tutorial Markdown](https://tutorialmarkdown.com)
-[Guía definitiva de Markdown](https://neoguias.com/markdown)
+[Información sobre gastronomía](https://es.wikipedia.org/wiki/Gastronom%C3%ADa)
 
-Si te gusta **Editor Markdown** y quieres publicar tu tutorial en esta lista, envía un mensaje a edu@edulazaro.com con tu nombre, el nombre del tutorial y la URL del tutorial.
+También podemos consultar nuestra documentación
+complementaria:
 
-## Novedades
+[Ver información adicional de MERAKI](docs/detalles.md)
 
-Novedades de la última versión:
+## 8. Conclusión
 
-* Puedes arrastrar y soltar documentos Markdown o archivos HTML en el editor.
-* También puedes incluir imágenes, aunque para ello deberás inlazar tu cuente de Dropbox.
+MERAKI es un proyecto gastronómico que busca
+combinar creatividad, calidad y atención al cliente.
 
+Esta documentación permite organizar la información
+del restaurante mediante Markdown.
+
+GitHub nos ayudará a almacenar los archivos
+y mantener un control de versiones del proyecto.
+
+En el futuro, esta documentación podrá servir
+como punto de partida para desarrollar
+la página web de MERAKI.
 
