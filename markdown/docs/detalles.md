@@ -33,4 +33,4 @@ En **MERAKI** creemos que cada detalle cuenta. Por eso, trabajamos con dedicaci�
 
 ## Volver a la página principal
 
-[⬅ Volver a MERAKI Bar Restaurante](https://chatgpt.com/markdown.md)
+[MERAKI Bar Restaurante__pagina principal](markdown/markdown.md))
