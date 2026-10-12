@@ -19,8 +19,8 @@ entre las categorias que puedan formar parte de nuestra oferta econtramos:
 4. Postres y propuestas dulces.
 5. Bebidas y cafés.
 
-simpre lo primeros
-![buen sabor ](https://upload.wikimedia.org/wikipedia/commons/8/8b/Christmas_table_%28Serbian_cuisine%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+###simpre lo primeros
+![](https://upload.wikimedia.org/wikipedia/commons/8/8b/Christmas_table_%28Serbian_cuisine%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
 
 ## Ejemplo de carta MERAKI
 La siguiente tabla presenta una propuesta inicial
@@ -60,4 +60,5 @@ y mantener un control de versiones del proyecto.
 En el futuro, esta documentación podrá servir
 como punto de partida para desarrollar
 la página web de MERAKI.
+![](assets/despido.png)
 
